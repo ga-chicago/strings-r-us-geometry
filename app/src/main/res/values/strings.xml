@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ye Olde Geometry App</string>
+    <string name="btn_calc_sum">Sum of 2 Nums</string>
+    <string name="btn_calc_pyth">Calculate Pyth</string>
+    <string name="btn_calc_circle_area">Area of Circle</string>
+    <string name="btn_calc_volume">Volume</string>
+    <string name="sum_first_num_hint">First number to add</string>
+    <string name="sum_second_num_hint">Second number to add</string>
+    <string name="sum_btn_calculate">Add numbers together!</string>
+    <string name="sum_placeholder">Sum will be displayed here.</string>
+</resources>
